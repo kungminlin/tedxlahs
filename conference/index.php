@@ -17,9 +17,9 @@
 	      <img class="headshot" src="/img/theme_logo.png" />
 	    </div>
 	    <div class="eight columns">
-	      <span class="name">Ideas UnlimiTED</span>
+	      <span class="name">Ideas creaTED</span>
 	      <span class="bio">
-		TEDxLAHS aims to share ideas that serve to benefit the community, whether it be through raising awareness of social issues, educating others on unfamiliar topics, or by giving performances that allow the audience to appreciate what their community has to offer. At TEDxLAHS, we work to provide an event that enriches the lives of the audience. We share ideas that challenge common thought, ideas that enlighten our community, and ideas that improve our world. We share <b>Ideas UnlimiTED</b>.<br /><br />
+		TEDxLAHS aims to share ideas that serve to benefit the community, whether it be through raising awareness of social issues, educating others on unfamiliar topics, or by giving performances that allow the audience to appreciate what their community has to offer. At TEDxLAHS, we work to provide an event that enriches the lives of the audience. We share ideas that challenge common thought, ideas that enlighten our community, and ideas that improve our world. We share what we have <b>creaTED</b>.<br /><br />
 
 With our distinguished set of speakers and performers, we hope to provide a conference experience where the audience will explore how ideas along different paths intersect, such as artificial intelligence and art, tech startups and non-technical hustlers, happiness and high school, and social media and youth activism.
 	      </span>
@@ -29,7 +29,7 @@ With our distinguished set of speakers and performers, we hope to provide a conf
       </div>
 
 
-      <!-- <div class="row" id="schedule">
+      <div class="row" id="schedule">
 	<div class="two columns"></div>
 	<div class="eight columns">
 	  <h2>Schedule</h2>
@@ -44,74 +44,69 @@ With our distinguished set of speakers and performers, we hope to provide a conf
 	      <tr>
 		<td>Period 1</td>
 		<td>
-			<a href="#noelle_hanson">Noelle Hanson</a><br>
-			<a href="#caley_vahedi">Caley Vahedi</a><br>
-			<a href="#hunter_liu">Hunter Liu</a>
+			<a href="#charles_atkins">Charles AtkinsNoelle Hanson</a><br>
+			<a href="#isaiah_swift">Isaiah Swift</a><br>
 		</td>
 	      </tr>
 	      <tr>
 		<td>Period 2</td>
 		<td>
-			<a href="#shilpa_rao">Shilpa Rao</a><br>
-			<a>Video</a><br>
-			<a href="#bob_mcfarlane">Bob McFarlane</a>
+			<a href="#noah_tesfaye">Noah Tesfaye</a><br>
+			<a href="#brian_weisfeld">Brian Weisfeld</a>
 		</td>
 	      </tr>
-	      <tr>
+	      <!-- <tr>
 		<td>Brunch</td>
 		<td>
 			<a>Video</a>
 		</td>
-	      </tr>
+	      </tr> -->
 	      <tr>
 		<td>Period 3</td>
 		<td>
-			<a href="#sriram_ramamurthy">Sriram Ramamurthy</a><br>
+			<a href="#kayley_gould">Kayley Gould</a><br>
 			<a>Video</a><br>
-			<a href="#amber_emily">Amber & Emily</a>
+			<a href="#jerome_behar">Jerome Behar</a>
 		</td>
 	      </tr>
-	      <tr>
+	      <!-- <tr>
 		<td>Tutorial</td>
 		<td>
 			<a href="#andrew_rathjen">Andrew Rathjen</a><br>
 			<a href="#shark_cops">Shark Cops</a>
 		</td>
-	      </tr>
+	      </tr> -->
 	      <tr>
 		<td>Period 4</td>
 		<td>
-			<a href="#angelina_lue">Angelina Lue</a><br>
-			<a href="#advanced_jazz">Advanced Jazz</a><br>
-			<a href="#cristy_dawson">Cristy Dawson</a>
+			<a href="#elise_nguyen">Elise Nguyen</a><br>
+			<a href="#jill_olenka">Jill Asher and Olenka Villarreal</a>
 		</td>
 	      </tr>
-	      <tr>
+	      <!-- <tr>
 		<td>Lunch</td>
 		<td>
 			<a>4 Videos</a>
 		</td>
-	      </tr>
+	      </tr> -->
 	      <tr>
 		<td>Period 5</td>
 		<td>
-			<a href="#zanny_zellers">Zanny Zellers</a><br>
-			<a href="#ryan_cardona">Ryan Cardona</a><br>
-			<a href="#adam_warmoth">Adam Warmoth</a>
+			<a href="#benjamin_rubinstein">Benjamin Rubinstein</a><br>
+			<a href="#paul_thiebaut">Paul Thiebaut III</a>
 		</td>
 	      </tr>
 	      <tr>
 		<td>Period 6</td>
 		<td>
-			<a href="#jia_seow">Jia Seow</a><br>
-			<a href="#yalda_elena_cathy">Elena, Cathy & Yalda</a><br>
-			<a href="#julie_lythcott-haims">Julie Lythcott-Haims</a>
+			<a href="#richa_krishna">Richa Krishna</a><br>
+			<a href="#zach_bodner">Zach Bodner</a>
 		</td>
 	      </tr>
 	    </tbody>
 	  </table>
 	</div>
-      </div> -->
+      </div>
 
       <div class="row">
 	<div class="two columns"></div>
