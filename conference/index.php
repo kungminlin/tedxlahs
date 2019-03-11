@@ -65,7 +65,7 @@ With our distinguished set of speakers and performers, we hope to provide a conf
 		<td>Period 3</td>
 		<td>
 			<a href="#kayley_gould">Kayley Gould</a><br>
-			<a>Video</a><br>
+			<!-- <a>Video</a><br> -->
 			<a href="#jerome_behar">Jerome Behar</a>
 		</td>
 	      </tr>
