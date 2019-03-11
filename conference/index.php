@@ -14,7 +14,7 @@
 
 	  <div class="profile row">
 	    <div class="four columns">
-	      <img class="headshot" src="/img/theme_logo.jpg" />
+	      <img class="headshot" src="/img/theme_logo.png" />
 	    </div>
 	    <div class="eight columns">
 	      <span class="name">creaTED</span>
