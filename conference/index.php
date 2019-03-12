@@ -19,10 +19,8 @@
 	    <div class="eight columns">
 	      <span class="name">creaTED</span>
 	      <span class="bio">
-		TEDxLAHS aims to share ideas that serve to benefit the community, whether it be through raising awareness of social issues, educating others on unfamiliar topics, or by giving performances that allow the audience to appreciate what their community has to offer. At TEDxLAHS, we work to provide an event that enriches the lives of the audience. We share ideas that challenge common thought, ideas that enlighten our community, and ideas that improve our world. We share what we have <b>creaTED</b>.<br /><br />
-
-With our distinguished set of speakers and performers, we hope to provide a conference experience where the audience will explore how ideas along different paths intersect, such as artificial intelligence and art, tech startups and non-technical hustlers, happiness and high school, and social media and youth activism.
-	      </span>
+		TEDxLAHS aims to share ideas that serve to benefit the community, whether it be through raising awareness of social issues, educating others on unfamiliar topics, or by giving performances that allow the audience to appreciate what their community has to offer. At TEDxLAHS, we work to provide an event that enriches the lives of the audience. We want to share ideas that have changed our lives and our community. Our goal is to inspire those around us to create meaningful opportunities for themselves.
+        </span>
 	    </div>
 	  </div>
 	</div>
@@ -80,7 +78,7 @@ With our distinguished set of speakers and performers, we hope to provide a conf
 		<td>Period 4</td>
 		<td>
 			<a href="#elise_nguyen">Elise Nguyen</a><br>
-			<a href="#jill_olenka">Jill Asher and Olenka Villarreal</a>
+			<a href="#jill_olenka">Jill Asher</a>
 		</td>
 	      </tr>
 	      <!-- <tr>
@@ -196,7 +194,7 @@ With our distinguished set of speakers and performers, we hope to provide a conf
 		<img class="headshot" src="/img/headshots/Zach Bodner.jpg" />
 	      </div>
 	      <div class="ten columns">
-		<span class="name">zack Bodner</span>
+		<span class="name">Zack Bodner</span>
 		<span class="bio">
       Zack Bodner joined the OFJCC as the CEO in August of 2013. Under Zack’s leadership, the JCC completed construction of the campus, transforming it into a community-gathering space where it is filled with people of all ages and backgrounds at all hours of the day. Before joining the JCC, Zack served for 14 years as the Pacific Northwest Regional Director of the American Israel Public Affairs Committee (AIPAC), where he oversaw a period of unprecedented growth in community outreach, political advocacy and fundraising.
       <br>Zack is an accomplished speaker and writes for publications throughout the U.S. and Israel. Zack holds degrees from  Yale and Claremont Graduate University. He has also completed Stanford Business School’s program for Executives in Non-Profit Leadership.
