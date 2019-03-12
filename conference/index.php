@@ -64,7 +64,7 @@
 		<td>
 			<a href="#kayley_gould">Kayley Gould</a><br>
 			<!-- <a>Video</a><br> -->
-			<a href="#jerome_behar">Jerome Behar</a>
+			<a href="#Jerry_behar">Jerry Behar</a>
 		</td>
 	      </tr>
 	      <!-- <tr>
@@ -90,7 +90,7 @@
 	      <tr>
 		<td>Period 5</td>
 		<td>
-			<a href="#benjamin_rubinstein">Benjamin Rubinstein</a><br>
+			<a href="#Ben_rubinstein">Ben Rubinstein</a><br>
 			<a href="#paul_thiebaut">Paul Thiebaut III</a>
 		</td>
 	      </tr>
@@ -111,12 +111,12 @@
 	<div class="eight columns">
 	    <h2>Speakers</h2>
 
-	    <div class="profile row" id="benjamin_rubinstein">
+	    <div class="profile row" id="Ben_rubinstein">
 	      <div class="two columns">
 		<img class="headshot" src="/img/headshots/Ben Rubinstein.jpg" />
 	      </div>
 	      <div class="ten columns">
-		<span class="name">Benjamin Rubinstein</span>
+		<span class="name">Ben Rubinstein</span>
 		<span class="bio">
           Ben Rubinstein is a Junior in High school who allows his passion for quirky things to drive his decision-making process and pursues his passions to the extreme, whether it means creating a language or building a rocket.
 		  <b><!-- Speaker Content Here --></b>
@@ -191,7 +191,7 @@
 
       <div class="profile row" id="zack_bodner">
 	      <div class="two columns">
-		<img class="headshot" src="/img/headshots/Zach Bodner.jpg" />
+		<img class="headshot" src="/img/headshots/Zack Bodner.jpg" />
 	      </div>
 	      <div class="ten columns">
 		<span class="name">Zack Bodner</span>
@@ -204,12 +204,12 @@
 	      </div>
 	    </div>
 
-      <div class="profile row" id="jerome_behar">
+      <div class="profile row" id="Jerry_behar">
 	      <div class="two columns">
 		<img class="headshot" src="/img/headshots/Jerry Behar.jpg" />
 	      </div>
 	      <div class="ten columns">
-		<span class="name">Jerome Behar</span>
+		<span class="name">Jerry Behar</span>
 		<span class="bio">
       Jerry Behar co-founded in 2018 and is the Chairman of Grand River Solutions which provides Title IX and Clery (safety) compliance and reporting solutions and services to colleges and universities. Jerry is the founder and CEO of Nissim Capital and is on the board of directors of Click Diagnostics.
       <br>Jerry was previously the founding CEO and visionary of Workiva (NYSE: WK), and was managing director through March 2013. Workiva created Wdesk, a cloud-based platform for enterprises to collect, manage, report and analyze business data in real time. Wdesk includes a sophisticated productivity suite for business data collaboration and reporting that is used by thousands of corporations, including more than 75% of the Fortune 500.
@@ -226,7 +226,7 @@
 		<img class="headshot" src="/img/headshots/Jill Asher.png" />
 	      </div>
 	      <div class="ten columns">
-		<span class="name">Jill Asher and Olenka Villarreal</span>
+		<span class="name">Jill Asher</span>
 		<span class="bio">
           Jill Asher is part of the founding team of Magical Bridge Playground in Palo Alto and co-founder of Magical Bridge Foundation. A seasoned public relations and marketing executive, Jill left a successful high tech career to run the Magical Bridge Foundation and lead administration, community engagement, development, public relations and marketing. Jill actively engages with communities to promote inclusive play and kindness through a full spectrum of communications and fundraising programs. She is instrumental in promoting the values and principles of Magical Bridge to the media and the global community. She holds degrees in Economics and English from Rutgers University.
 		  <b><!-- Speaker Content Here --></b>
