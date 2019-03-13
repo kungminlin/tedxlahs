@@ -191,7 +191,7 @@
 
       <div class="profile row" id="zack_bodner">
 	      <div class="two columns">
-		<img class="headshot" src="/img/headshots/Zack Bodner.jpg" />
+		<img class="headshot" src="/img/headshots/Zach Bodner.jpg" />
 	      </div>
 	      <div class="ten columns">
 		<span class="name">Zack Bodner</span>
