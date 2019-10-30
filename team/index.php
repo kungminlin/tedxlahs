@@ -29,7 +29,7 @@
 	      <div class="six columns">
     		  <h3>Max Silver</h3>
     		  <h4>Co-President of Speaker Management</h4>
-    		  <img style="margin-top:20px" class="headshot" src="/img/team/sara.jpg">
+    		  <img style="margin-top:20px" class="headshot" src="/img/team/max.png">
   	      <p>Max Silver is a senior at Los Altos High School. He is a part of the rock climbing club, as well as several other outdoors and environmental groups. He has also been involved in research at NASA's Ames Research Center for the past year. This is his second year on the TEDx team.</p>
 	      </div>
         <div class="six columns">
@@ -76,8 +76,6 @@
     		  <p>Greg Corn is a senior at Los Altos High School. This is his third year on the TEDx team. He is a videographer for The Talon, Los Altos High School's Student Newspaper, and president of the Pretzel Appreciation Club.</p>
 	      </div>
 	    </div>
-
-
 	    <br />
 	    <br />
 	    <p>If you are interested in joining TEDxLAHS please email <a href="mailto:tedxlahs2018@gmail.com">us</a>, or drop by at one of our meetings.</p>
