@@ -14,7 +14,7 @@
 
 	  <div class="profile row">
 	    <div class="four columns">
-	      <img class="headshot" src="/img/theme_logo.png" />
+	      <img class="headshot" src="../img/theme_logo.png" />
 	    </div>
 	    <div class="eight columns">
 	      <span class="name">Chasing a Vision</span>
@@ -113,7 +113,7 @@
 
 	    <div class="profile row" id="Ben_rubinstein">
 	      <div class="two columns">
-		<img class="headshot" src="/img/headshots/Ben Rubinstein.jpg" />
+		<img class="headshot" src="../img/headshots/Ben Rubinstein.jpg" />
 	      </div>
 	      <div class="ten columns">
 		<span class="name">Ben Rubinstein</span>
@@ -126,7 +126,7 @@
 
       <div class="profile row" id="charles_atkins">
 	      <div class="two columns">
-		<img class="headshot" src="/img/headshots/Charles Atkins.png" />
+		<img class="headshot" src="../img/headshots/Charles Atkins.png" />
 	      </div>
 	      <div class="ten columns">
 		<span class="name">Charles Atkins</span>
@@ -139,7 +139,7 @@
 
       <div class="profile row" id="noah_tesfaye">
 	      <div class="two columns">
-		<img class="headshot" src="/img/headshots/Noah Tesfaye.jpg" />
+		<img class="headshot" src="../img/headshots/Noah Tesfaye.jpg" />
 	      </div>
 	      <div class="ten columns">
 		<span class="name">Noah Tesfaye</span>
@@ -152,7 +152,7 @@
 
       <div class="profile row" id="richa_krishna">
 	      <div class="two columns">
-		<img class="headshot" src="/img/headshots/Richa Krishna.jpg" />
+		<img class="headshot" src="../img/headshots/Richa Krishna.jpg" />
 	      </div>
 	      <div class="ten columns">
 		<span class="name">Richa Krishna</span>
@@ -165,7 +165,7 @@
 
       <div class="profile row" id="kayley_gould">
 	      <div class="two columns">
-		<img class="headshot" src="/img/headshots/Kayley Gould.jpg" />
+		<img class="headshot" src="../img/headshots/Kayley Gould.jpg" />
 	      </div>
 	      <div class="ten columns">
 		<span class="name">Kayley Gould</span>
@@ -178,7 +178,7 @@
 
       <div class="profile row" id="elise_nguyen">
 	      <div class="two columns">
-		<img class="headshot" src="/img/headshots/Elise Nguyen.jpg" />
+		<img class="headshot" src="../img/headshots/Elise Nguyen.jpg" />
 	      </div>
 	      <div class="ten columns">
 		<span class="name">Elise Nguyen</span>
@@ -191,7 +191,7 @@
 
       <div class="profile row" id="zack_bodner">
 	      <div class="two columns">
-		<img class="headshot" src="/img/headshots/Zach Bodner.jpg" />
+		<img class="headshot" src="../img/headshots/Zach Bodner.jpg" />
 	      </div>
 	      <div class="ten columns">
 		<span class="name">Zack Bodner</span>
@@ -206,7 +206,7 @@
 
       <div class="profile row" id="Jerry_behar">
 	      <div class="two columns">
-		<img class="headshot" src="/img/headshots/Jerry Behar.jpg" />
+		<img class="headshot" src="../img/headshots/Jerry Behar.jpg" />
 	      </div>
 	      <div class="ten columns">
 		<span class="name">Jerry Behar</span>
@@ -223,7 +223,7 @@
 
       <div class="profile row" id="jill_olenka">
 	      <div class="two columns">
-		<img class="headshot" src="/img/headshots/Jill Asher.png" />
+		<img class="headshot" src="../img/headshots/Jill Asher.png" />
 	      </div>
 	      <div class="ten columns">
 		<span class="name">Jill Asher</span>
@@ -236,7 +236,7 @@
 
       <div class="profile row" id="brian_weisfeld">
 	      <div class="two columns">
-		<img class="headshot" src="/img/headshots/Brian Weisfeld.jpg" />
+		<img class="headshot" src="../img/headshots/Brian Weisfeld.jpg" />
 	      </div>
 	      <div class="ten columns">
 		<span class="name">Brian Weisfeld</span>
@@ -249,7 +249,7 @@
 
       <div class="profile row" id="isaiah_swift">
 	      <div class="two columns">
-		<img class="headshot" src="/img/headshots/Isaiah Swift.jpg" />
+		<img class="headshot" src="../img/headshots/Isaiah Swift.jpg" />
 	      </div>
 	      <div class="ten columns">
 		<span class="name">Isaiah Swift</span>
@@ -262,7 +262,7 @@
 
       <div class="profile row" id="paul_thiebaut">
 	      <div class="two columns">
-		<img class="headshot" src="/img/headshots/Paul Thiebaut III.png" />
+		<img class="headshot" src="../img/headshots/Paul Thiebaut III.png" />
 	      </div>
 	      <div class="ten columns">
 		<span class="name">Paul Thiebaut III</span>
@@ -279,6 +279,6 @@
 
        <?php include('../templates/footer.php') ?>
 
-      <script src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+      <script src="..//cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
     </body>
 </html>
