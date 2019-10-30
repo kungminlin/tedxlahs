@@ -49,7 +49,7 @@
         <div class="six columns">
     		  <h3>Tripp Crissman</h3>
     		  <h4>President of Promotions</h4>
-    		  <img style="margin-top:20px" class="headshot" src="/img/team/megan.jpg">
+    		  <img style="margin-top:20px" class="headshot" src="/img/team/tripp.jpeg">
           <p>Tripp Crissman is a senior at Los Altos High School. He has played competitive lacrosse for the past 11 years and is the captain of the boys varsity lacrosse team. He is also the Fundraising Coordinator and Treasurer for SCL. This is Tripp’s third year on the TEDx team.</p>
 	      </div>
 	    </div>

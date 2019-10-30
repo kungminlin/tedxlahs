@@ -17,7 +17,7 @@
 	      <img class="headshot" src="/img/theme_logo.png" />
 	    </div>
 	    <div class="eight columns">
-	      <span class="name">creaTED</span>
+	      <span class="name">Chasing a Vision</span>
 	      <span class="bio">
 		TEDxLAHS aims to share ideas that serve to benefit the community, whether it be through raising awareness of social issues, educating others on unfamiliar topics, or by giving performances that allow the audience to appreciate what their community has to offer. At TEDxLAHS, we work to provide an event that enriches the lives of the audience. We want to share ideas that have changed our lives and our community. Our goal is to inspire those around us to create meaningful opportunities for themselves.
         </span>
