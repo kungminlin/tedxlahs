@@ -21,7 +21,7 @@
 	      <div class="six columns">
     		  <h3>Janie Dent</h3>
     		  <h4>Co-President</h4>
-    		  <img style="margin-top:20px" class="headshot" src="/img/team/janie.jpg">
+    		  <img style="margin-top:20px" class="headshot" src="/img/team/janie.JPG">
     		  <p>Janie is a senior at Los Altos High School. She has been a part of a competitive dance team for 8 years and is the captain of the LAHS Dance Team. She is also the News Editor for The Talon, the school newspaper, and a reading tutor at Castro Elementary School. This is Janie's third year on the TEDx team.</p>
         </div>
 	    </div>
