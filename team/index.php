@@ -68,7 +68,8 @@
 	      </div>
 	    </div>
       <div class="row">
-        <div class="twelve columns">
+        <div class="three columns"></div>
+        <div class="six columns">
     		  <h3>Greg Corn</h3>
     		  <h4>President of Communications</h4>
     		  <img style="margin-top:20px" class="headshot" src="/img/team/greg.jpg">
