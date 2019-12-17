@@ -44,12 +44,12 @@
     		  <h3>Jackson Camp</h3>
     		  <h4>Co-President of Speaker Management</h4>
     		  <img style="margin-top:20px" class="headshot" src="../img/team/jackson.jpeg">
-    		  <p>Jackson “Camper” Camp is a senior and he plays varsity lacrosse here at the high school. This is his third year on TEDx and this year he is the Co-President of Speaker Management.</p>
+    		  <p>Jackson Camp is a senior at Los Altos High School. He is a marketing and product design intern for the startup company Tutree. He is an avid backpacker and is entering his 4th-year of Varsity lacrosse. This is his 3rd year on the TEDx team and he is a President of Speaker Management.</p>
 	      </div>
         <div class="six columns">
     		  <h3>Tripp Crissman</h3>
     		  <h4>President of Promotions</h4>
-    		  <img style="margin-top:20px" class="headshot" src="../img/team/tripp.jpeg">
+    		  <img style="margin-top:20px" class="headshot" src="../img/team/tripp.jpg">
           <p>Tripp Crissman is a senior at Los Altos High School. He has played competitive lacrosse for the past 11 years and is the captain of the boys varsity lacrosse team. He is also the Fundraising Coordinator and Treasurer for SCL. This is Tripp’s third year on the TEDx team.</p>
 	      </div>
 	    </div>
