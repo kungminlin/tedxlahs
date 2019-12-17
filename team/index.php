@@ -35,7 +35,7 @@
         <div class="six columns">
     		  <h3>Kyle Bistrain</h3>
     		  <h4>Co-President of Speaker Management</h4>
-    		  <img style="margin-top:20px" class="headshot" src="../img/team/greg.jpg">
+    		  <img style="margin-top:20px" class="headshot" src="../img/team/kyle.jpg">
     		  <p>Kyle Bistrain is a senior at Los Altos High School. This is his third year on TEDx. He has played water polo for the last 7 years and plays on the Los Altos varsity team. He is also a part of the Varsity Lacrosse team. He is a President of Speaker Management.</p>
 	      </div>
 	    </div>
@@ -43,7 +43,7 @@
 	      <div class="six columns">
     		  <h3>Jackson Camp</h3>
     		  <h4>Co-President of Speaker Management</h4>
-    		  <img style="margin-top:20px" class="headshot" src="../img/team/greg.jpg">
+    		  <img style="margin-top:20px" class="headshot" src="../img/team/jackson.jpeg">
     		  <p>Jackson “Camper” Camp is a senior and he plays varsity lacrosse here at the high school. This is his third year on TEDx and this year he is the Co-President of Speaker Management.</p>
 	      </div>
         <div class="six columns">
