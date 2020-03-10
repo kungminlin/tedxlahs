@@ -8,7 +8,7 @@
   <br /><br />
 
   This independent TEDx event is operated under license from TED. <br />
-  Copyright &copy; 2019 | Website created by Kung-Min Lin in association with <a href="https://lahs.club">LAHS Hack Club</a> using <a href="https://tedxgunnhighschool.com">TEDxGunnHighSchool</a>
+  Copyright &copy; 2020 | Website created by Kung-Min Lin in association with <a href="https://lahs.club">LAHS Hack Club</a> using <a href="https://tedxgunnhighschool.com">TEDxGunnHighSchool</a>
 	    </div>
     </div>
   </div>
