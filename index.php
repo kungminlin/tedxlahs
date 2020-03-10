@@ -38,7 +38,7 @@
               <div class="two columns removable"></div>
               <div class="eight columns">
                   <p class="lead">
-                    On <b>March 26, 2019</b>, TEDxLAHS will host its third annual TEDx conference in the Eagle Theatre at Los Altos High School from 1st to 6th period. Members of the Los Altos community and Los Altos High School students and faculty will be giving talks, sharing their versions of “Ideas Worth Spreading."<br /><br />
+                    On <b>March 24th, 2020</b>, TEDxLAHS will host its fourth annual TEDx conference in the Eagle Theatre at Los Altos High School from 1st to 6th period. 14 members of the Los Altos community, including Los Altos High School students and faculty, will be giving talks to share their versions of “Chasing a Vision”.<br /><br />
 
                     <b>Tickets</b><br /><br />
 
